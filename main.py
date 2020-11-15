@@ -21,3 +21,5 @@ def greet(name,greeting):
 print (greet("name","hamid"))
 print (greet("karim","hiee"))
 
+print (greet ("hamil","hi"))
+
